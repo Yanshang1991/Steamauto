@@ -18,3 +18,5 @@ steamauto.spec
 .vscode
 launch.json
 plugins/*External*
+.DS_Store
+.conda
